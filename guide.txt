@@ -1,0 +1,1 @@
+Okay so basically you open the setup.py and install all the dependencies, select the area of the DM sidebar, the Display name placeholder as well as the chat box. And then you ran the automation.py. That's it.
