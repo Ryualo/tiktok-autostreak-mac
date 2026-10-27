@@ -1,0 +1,5 @@
+# TikTok Recipients — One per line: Display Name | @username
+# Editing nicknames/details in the app preserves permanent IDs & sent history.
+# Include the @ too
+#Example -> Hi | @Hi123
+DisplayNames | @usernames
